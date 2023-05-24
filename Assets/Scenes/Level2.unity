@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 3464594}
   - component: {fileID: 3464593}
   - component: {fileID: 3464592}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -437,7 +437,7 @@ GameObject:
   - component: {fileID: 24189845}
   - component: {fileID: 24189847}
   - component: {fileID: 24189846}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -762,7 +762,7 @@ GameObject:
   - component: {fileID: 35459222}
   - component: {fileID: 35459221}
   - component: {fileID: 35459220}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -861,7 +861,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 39650754}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -892,7 +892,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 41403375}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1076,7 +1076,7 @@ GameObject:
   - component: {fileID: 64731241}
   - component: {fileID: 64731240}
   - component: {fileID: 64731239}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1171,7 +1171,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 65370587}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1239,7 +1239,7 @@ GameObject:
   - component: {fileID: 70711002}
   - component: {fileID: 70711004}
   - component: {fileID: 70711003}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1457,7 +1457,7 @@ GameObject:
   - component: {fileID: 76753551}
   - component: {fileID: 76753553}
   - component: {fileID: 76753552}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1643,7 +1643,7 @@ GameObject:
   - component: {fileID: 100880520}
   - component: {fileID: 100880519}
   - component: {fileID: 100880518}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1742,7 +1742,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 103645782}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1880,7 +1880,7 @@ GameObject:
   - component: {fileID: 104614630}
   - component: {fileID: 104614629}
   - component: {fileID: 104614628}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1982,7 +1982,7 @@ GameObject:
   - component: {fileID: 108623758}
   - component: {fileID: 108623757}
   - component: {fileID: 108623756}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2085,7 +2085,7 @@ GameObject:
   - component: {fileID: 110398496}
   - component: {fileID: 110398495}
   - component: {fileID: 110398494}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (3)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -2352,7 +2352,7 @@ GameObject:
   - component: {fileID: 114740512}
   - component: {fileID: 114740514}
   - component: {fileID: 114740513}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2517,7 +2517,7 @@ GameObject:
   m_Component:
   - component: {fileID: 125610186}
   - component: {fileID: 125610187}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2562,7 +2562,7 @@ GameObject:
   m_Component:
   - component: {fileID: 135313970}
   - component: {fileID: 135313971}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2609,7 +2609,7 @@ GameObject:
   - component: {fileID: 139212515}
   - component: {fileID: 139212514}
   - component: {fileID: 139212513}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2706,7 +2706,7 @@ GameObject:
   - component: {fileID: 152611051}
   - component: {fileID: 152611053}
   - component: {fileID: 152611052}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3008,7 +3008,7 @@ GameObject:
   - component: {fileID: 169101805}
   - component: {fileID: 169101807}
   - component: {fileID: 169101806}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3091,7 +3091,7 @@ GameObject:
   - component: {fileID: 169569581}
   - component: {fileID: 169569583}
   - component: {fileID: 169569582}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3175,7 +3175,7 @@ GameObject:
   - component: {fileID: 172562885}
   - component: {fileID: 172562884}
   - component: {fileID: 172562883}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3272,7 +3272,7 @@ GameObject:
   - component: {fileID: 177568338}
   - component: {fileID: 177568340}
   - component: {fileID: 177568339}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3556,7 +3556,7 @@ GameObject:
   - component: {fileID: 183272014}
   - component: {fileID: 183272016}
   - component: {fileID: 183272015}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3845,7 +3845,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 206467626}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3878,7 +3878,7 @@ GameObject:
   - component: {fileID: 211395972}
   - component: {fileID: 211395974}
   - component: {fileID: 211395973}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3962,7 +3962,7 @@ GameObject:
   - component: {fileID: 211705261}
   - component: {fileID: 211705260}
   - component: {fileID: 211705259}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4068,7 +4068,7 @@ GameObject:
   - component: {fileID: 212415724}
   - component: {fileID: 212415723}
   - component: {fileID: 212415722}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (7)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -9245,7 +9245,7 @@ GameObject:
   - component: {fileID: 232205464}
   - component: {fileID: 232205466}
   - component: {fileID: 232205465}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9328,7 +9328,7 @@ GameObject:
   - component: {fileID: 238400338}
   - component: {fileID: 238400340}
   - component: {fileID: 238400339}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9687,7 +9687,7 @@ GameObject:
   - component: {fileID: 247019264}
   - component: {fileID: 247019263}
   - component: {fileID: 247019262}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9806,7 +9806,7 @@ GameObject:
   - component: {fileID: 250244108}
   - component: {fileID: 250244110}
   - component: {fileID: 250244109}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9890,7 +9890,7 @@ GameObject:
   - component: {fileID: 258773593}
   - component: {fileID: 258773592}
   - component: {fileID: 258773591}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9987,7 +9987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 269164713}
   - component: {fileID: 269164714}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10034,7 +10034,7 @@ GameObject:
   - component: {fileID: 276466235}
   - component: {fileID: 276466234}
   - component: {fileID: 276466233}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10132,7 +10132,7 @@ GameObject:
   - component: {fileID: 287742006}
   - component: {fileID: 287742008}
   - component: {fileID: 287742007}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10291,7 +10291,7 @@ GameObject:
   - component: {fileID: 293291750}
   - component: {fileID: 293291752}
   - component: {fileID: 293291751}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10375,7 +10375,7 @@ GameObject:
   - component: {fileID: 295733883}
   - component: {fileID: 295733882}
   - component: {fileID: 295733881}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10470,7 +10470,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 295937882}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10586,7 +10586,7 @@ GameObject:
   - component: {fileID: 300331219}
   - component: {fileID: 300331221}
   - component: {fileID: 300331220}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10798,7 +10798,7 @@ GameObject:
   - component: {fileID: 315133429}
   - component: {fileID: 315133428}
   - component: {fileID: 315133427}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10896,7 +10896,7 @@ GameObject:
   - component: {fileID: 335093631}
   - component: {fileID: 335093633}
   - component: {fileID: 335093632}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10979,7 +10979,7 @@ GameObject:
   - component: {fileID: 348753472}
   - component: {fileID: 348753474}
   - component: {fileID: 348753473}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11170,7 +11170,7 @@ GameObject:
   - component: {fileID: 366054980}
   - component: {fileID: 366054982}
   - component: {fileID: 366054981}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11251,7 +11251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 366620859}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11360,7 +11360,7 @@ GameObject:
   - component: {fileID: 369263317}
   - component: {fileID: 369263319}
   - component: {fileID: 369263318}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11447,7 +11447,7 @@ GameObject:
   - component: {fileID: 374754741}
   - component: {fileID: 374754743}
   - component: {fileID: 374754742}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11523,7 +11523,7 @@ GameObject:
   - component: {fileID: 375994428}
   - component: {fileID: 375994430}
   - component: {fileID: 375994429}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11696,7 +11696,7 @@ GameObject:
   - component: {fileID: 398275325}
   - component: {fileID: 398275324}
   - component: {fileID: 398275323}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlockingWall (3)
   m_TagString: BlockingWall
   m_Icon: {fileID: 0}
@@ -11928,7 +11928,7 @@ GameObject:
   - component: {fileID: 403674740}
   - component: {fileID: 403674739}
   - component: {fileID: 403674738}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12026,7 +12026,7 @@ GameObject:
   - component: {fileID: 409809664}
   - component: {fileID: 409809666}
   - component: {fileID: 409809665}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12109,7 +12109,7 @@ GameObject:
   - component: {fileID: 412975099}
   - component: {fileID: 412975101}
   - component: {fileID: 412975100}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12388,7 +12388,7 @@ GameObject:
   - component: {fileID: 428695396}
   - component: {fileID: 428695395}
   - component: {fileID: 428695394}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (2)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -12854,7 +12854,7 @@ GameObject:
   - component: {fileID: 443750316}
   - component: {fileID: 443750318}
   - component: {fileID: 443750317}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12938,7 +12938,7 @@ GameObject:
   - component: {fileID: 449786695}
   - component: {fileID: 449786694}
   - component: {fileID: 449786693}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13206,7 +13206,7 @@ GameObject:
   - component: {fileID: 462855901}
   - component: {fileID: 462855900}
   - component: {fileID: 462855899}
-  m_Layer: 2
+  m_Layer: 8
   m_Name: BlockingWall (5)
   m_TagString: BlockingWall
   m_Icon: {fileID: 0}
@@ -13423,7 +13423,7 @@ GameObject:
   - component: {fileID: 467568196}
   - component: {fileID: 467568195}
   - component: {fileID: 467568194}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (6)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -13438,7 +13438,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 467568192}
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: 19.4, y: 1.35, z: -66.1}
+  m_LocalPosition: {x: 45.74, y: 1.2, z: -52.89}
   m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13773,7 +13773,7 @@ GameObject:
   - component: {fileID: 481375739}
   - component: {fileID: 481375741}
   - component: {fileID: 481375740}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13856,7 +13856,7 @@ GameObject:
   - component: {fileID: 482893276}
   - component: {fileID: 482893278}
   - component: {fileID: 482893277}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13937,7 +13937,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 489539945}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13972,7 +13972,7 @@ GameObject:
   - component: {fileID: 491504429}
   - component: {fileID: 491504431}
   - component: {fileID: 491504430}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14056,7 +14056,7 @@ GameObject:
   - component: {fileID: 495321145}
   - component: {fileID: 495321144}
   - component: {fileID: 495321143}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14154,7 +14154,7 @@ GameObject:
   - component: {fileID: 499849446}
   - component: {fileID: 499849448}
   - component: {fileID: 499849447}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14517,7 +14517,7 @@ GameObject:
   - component: {fileID: 512084880}
   - component: {fileID: 512084879}
   - component: {fileID: 512084878}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlockingWall (2)
   m_TagString: BlockingWall
   m_Icon: {fileID: 0}
@@ -14690,7 +14690,7 @@ GameObject:
   - component: {fileID: 515050174}
   - component: {fileID: 515050173}
   - component: {fileID: 515050172}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14809,7 +14809,7 @@ GameObject:
   - component: {fileID: 526292616}
   - component: {fileID: 526292618}
   - component: {fileID: 526292617}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14893,7 +14893,7 @@ GameObject:
   - component: {fileID: 529486045}
   - component: {fileID: 529486044}
   - component: {fileID: 529486043}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlockingWall
   m_TagString: BlockingWall
   m_Icon: {fileID: 0}
@@ -15109,7 +15109,7 @@ GameObject:
   - component: {fileID: 534593001}
   - component: {fileID: 534593003}
   - component: {fileID: 534593002}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15192,7 +15192,7 @@ GameObject:
   - component: {fileID: 535624504}
   - component: {fileID: 535624506}
   - component: {fileID: 535624505}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15489,7 +15489,7 @@ GameObject:
   - component: {fileID: 550953001}
   - component: {fileID: 550953003}
   - component: {fileID: 550953002}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15572,7 +15572,7 @@ GameObject:
   - component: {fileID: 551963356}
   - component: {fileID: 551963358}
   - component: {fileID: 551963357}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15656,7 +15656,7 @@ GameObject:
   - component: {fileID: 554363474}
   - component: {fileID: 554363473}
   - component: {fileID: 554363472}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15782,6 +15782,7 @@ Transform:
   - {fileID: 1792827056}
   - {fileID: 2065566786}
   - {fileID: 1997672199}
+  - {fileID: 5070816779883677071}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -15796,7 +15797,7 @@ GameObject:
   - component: {fileID: 564075481}
   - component: {fileID: 564075483}
   - component: {fileID: 564075482}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15880,7 +15881,7 @@ GameObject:
   - component: {fileID: 565192524}
   - component: {fileID: 565192523}
   - component: {fileID: 565192522}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15982,7 +15983,7 @@ GameObject:
   - component: {fileID: 567656378}
   - component: {fileID: 567656377}
   - component: {fileID: 567656376}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16420,7 +16421,7 @@ GameObject:
   - component: {fileID: 579744518}
   - component: {fileID: 579744517}
   - component: {fileID: 579744516}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16736,7 +16737,7 @@ GameObject:
   - component: {fileID: 589994323}
   - component: {fileID: 589994322}
   - component: {fileID: 589994321}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16833,7 +16834,7 @@ GameObject:
   m_Component:
   - component: {fileID: 598152226}
   - component: {fileID: 598152227}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16880,7 +16881,7 @@ GameObject:
   - component: {fileID: 601161507}
   - component: {fileID: 601161506}
   - component: {fileID: 601161505}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17007,7 +17008,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.72581244, y: 0.23764323}
   m_AnchorMax: {x: 0.8644376, y: 0.35021442}
-  m_AnchoredPosition: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 1, y: 0.9999695}
   m_SizeDelta: {x: -3.8078003, y: -5.5184937}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &601288918
@@ -17127,7 +17128,7 @@ GameObject:
   - component: {fileID: 605299813}
   - component: {fileID: 605299815}
   - component: {fileID: 605299814}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17214,7 +17215,7 @@ GameObject:
   - component: {fileID: 605338145}
   - component: {fileID: 605338147}
   - component: {fileID: 605338146}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17463,7 +17464,7 @@ GameObject:
   - component: {fileID: 643852902}
   - component: {fileID: 643852904}
   - component: {fileID: 643852903}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17643,7 +17644,7 @@ GameObject:
   - component: {fileID: 655886328}
   - component: {fileID: 655886330}
   - component: {fileID: 655886329}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17726,7 +17727,7 @@ GameObject:
   - component: {fileID: 658229328}
   - component: {fileID: 658229330}
   - component: {fileID: 658229329}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17815,7 +17816,7 @@ GameObject:
   - component: {fileID: 658962486}
   - component: {fileID: 658962488}
   - component: {fileID: 658962487}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17903,7 +17904,7 @@ GameObject:
   - component: {fileID: 659968272}
   - component: {fileID: 659968271}
   - component: {fileID: 659968270}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (9)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -18171,7 +18172,7 @@ GameObject:
   - component: {fileID: 662656278}
   - component: {fileID: 662656277}
   - component: {fileID: 662656276}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18288,7 +18289,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 685002597}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18397,7 +18398,7 @@ GameObject:
   - component: {fileID: 689215018}
   - component: {fileID: 689215020}
   - component: {fileID: 689215019}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18570,7 +18571,7 @@ GameObject:
   - component: {fileID: 700378877}
   - component: {fileID: 700378876}
   - component: {fileID: 700378875}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18667,7 +18668,7 @@ GameObject:
   - component: {fileID: 706187577}
   - component: {fileID: 706187576}
   - component: {fileID: 706187575}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18766,7 +18767,7 @@ GameObject:
   - component: {fileID: 709449397}
   - component: {fileID: 709449396}
   - component: {fileID: 709449395}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19006,7 +19007,7 @@ GameObject:
   - component: {fileID: 715860856}
   - component: {fileID: 715860855}
   - component: {fileID: 715860854}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19106,7 +19107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 716182109}
   - component: {fileID: 716182110}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19152,7 +19153,7 @@ GameObject:
   - component: {fileID: 719297137}
   - component: {fileID: 719297139}
   - component: {fileID: 719297138}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19281,7 +19282,7 @@ GameObject:
   - component: {fileID: 728853850}
   - component: {fileID: 728853849}
   - component: {fileID: 728853848}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19400,7 +19401,7 @@ GameObject:
   - component: {fileID: 731416285}
   - component: {fileID: 731416287}
   - component: {fileID: 731416286}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19578,7 +19579,7 @@ GameObject:
   - component: {fileID: 735305254}
   - component: {fileID: 735305256}
   - component: {fileID: 735305255}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19738,7 +19739,7 @@ GameObject:
   - component: {fileID: 738748388}
   - component: {fileID: 738748387}
   - component: {fileID: 738748386}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19840,7 +19841,7 @@ GameObject:
   - component: {fileID: 743699728}
   - component: {fileID: 743699727}
   - component: {fileID: 743699726}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19936,7 +19937,7 @@ GameObject:
   - component: {fileID: 746317688}
   - component: {fileID: 746317690}
   - component: {fileID: 746317689}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20025,7 +20026,7 @@ GameObject:
   - component: {fileID: 749645861}
   - component: {fileID: 749645863}
   - component: {fileID: 749645862}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20101,7 +20102,7 @@ GameObject:
   - component: {fileID: 757937519}
   - component: {fileID: 757937521}
   - component: {fileID: 757937520}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20319,7 +20320,7 @@ GameObject:
   - component: {fileID: 775829234}
   - component: {fileID: 775829236}
   - component: {fileID: 775829235}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20402,7 +20403,7 @@ GameObject:
   - component: {fileID: 778279845}
   - component: {fileID: 778279847}
   - component: {fileID: 778279846}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20491,7 +20492,7 @@ GameObject:
   - component: {fileID: 780314428}
   - component: {fileID: 780314430}
   - component: {fileID: 780314429}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20572,7 +20573,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 782164922}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20607,7 +20608,7 @@ GameObject:
   - component: {fileID: 782284001}
   - component: {fileID: 782284003}
   - component: {fileID: 782284002}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20691,7 +20692,7 @@ GameObject:
   - component: {fileID: 785520882}
   - component: {fileID: 785520881}
   - component: {fileID: 785520880}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20810,7 +20811,7 @@ GameObject:
   - component: {fileID: 798427017}
   - component: {fileID: 798427019}
   - component: {fileID: 798427018}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20991,7 +20992,7 @@ GameObject:
   - component: {fileID: 807601549}
   - component: {fileID: 807601551}
   - component: {fileID: 807601550}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21074,7 +21075,7 @@ GameObject:
   - component: {fileID: 808055665}
   - component: {fileID: 808055667}
   - component: {fileID: 808055666}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21246,7 +21247,7 @@ GameObject:
   - component: {fileID: 815389035}
   - component: {fileID: 815389037}
   - component: {fileID: 815389036}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21323,7 +21324,7 @@ GameObject:
   - component: {fileID: 820250933}
   - component: {fileID: 820250932}
   - component: {fileID: 820250931}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21440,7 +21441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 826437372}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21475,7 +21476,7 @@ GameObject:
   - component: {fileID: 826994391}
   - component: {fileID: 826994390}
   - component: {fileID: 826994389}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlockingWall (1)
   m_TagString: BlockingWall
   m_Icon: {fileID: 0}
@@ -21654,7 +21655,7 @@ GameObject:
   - component: {fileID: 834442841}
   - component: {fileID: 834442843}
   - component: {fileID: 834442842}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21834,7 +21835,7 @@ GameObject:
   - component: {fileID: 850198721}
   - component: {fileID: 850198723}
   - component: {fileID: 850198722}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22120,7 +22121,7 @@ GameObject:
   - component: {fileID: 879425614}
   - component: {fileID: 879425613}
   - component: {fileID: 879425612}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22465,7 +22466,7 @@ GameObject:
   - component: {fileID: 889091453}
   - component: {fileID: 889091455}
   - component: {fileID: 889091454}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22873,7 +22874,7 @@ GameObject:
   - component: {fileID: 895798317}
   - component: {fileID: 895798316}
   - component: {fileID: 895798315}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22967,7 +22968,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 904307572}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23138,7 +23139,7 @@ GameObject:
   - component: {fileID: 910977667}
   - component: {fileID: 910977666}
   - component: {fileID: 910977665}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23234,7 +23235,7 @@ GameObject:
   - component: {fileID: 918295849}
   - component: {fileID: 918295851}
   - component: {fileID: 918295850}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23419,7 +23420,7 @@ GameObject:
   - component: {fileID: 922845773}
   - component: {fileID: 922845772}
   - component: {fileID: 922845771}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemySniper4
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -23687,7 +23688,7 @@ GameObject:
   - component: {fileID: 929374091}
   - component: {fileID: 929374090}
   - component: {fileID: 929374089}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23783,7 +23784,7 @@ GameObject:
   - component: {fileID: 929650782}
   - component: {fileID: 929650784}
   - component: {fileID: 929650783}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23954,7 +23955,7 @@ GameObject:
   - component: {fileID: 938175301}
   - component: {fileID: 938175300}
   - component: {fileID: 938175299}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24049,7 +24050,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 941347311}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24087,7 +24088,7 @@ GameObject:
   - component: {fileID: 948135298}
   - component: {fileID: 948135297}
   - component: {fileID: 948135296}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (5)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -24355,7 +24356,7 @@ GameObject:
   - component: {fileID: 949018342}
   - component: {fileID: 949018341}
   - component: {fileID: 949018340}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24555,7 +24556,7 @@ GameObject:
   - component: {fileID: 962865549}
   - component: {fileID: 962865548}
   - component: {fileID: 962865547}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24652,7 +24653,7 @@ GameObject:
   - component: {fileID: 971832505}
   - component: {fileID: 971832507}
   - component: {fileID: 971832506}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24735,7 +24736,7 @@ GameObject:
   - component: {fileID: 972490725}
   - component: {fileID: 972490727}
   - component: {fileID: 972490726}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24818,7 +24819,7 @@ GameObject:
   - component: {fileID: 973089642}
   - component: {fileID: 973089644}
   - component: {fileID: 973089643}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24906,7 +24907,7 @@ GameObject:
   - component: {fileID: 980755660}
   - component: {fileID: 980755659}
   - component: {fileID: 980755658}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -25256,7 +25257,7 @@ GameObject:
   - component: {fileID: 1003761970}
   - component: {fileID: 1003761972}
   - component: {fileID: 1003761971}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25444,7 +25445,7 @@ GameObject:
   - component: {fileID: 1008947600}
   - component: {fileID: 1008947599}
   - component: {fileID: 1008947598}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25545,7 +25546,7 @@ GameObject:
   - component: {fileID: 1010331353}
   - component: {fileID: 1010331355}
   - component: {fileID: 1010331354}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25702,7 +25703,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1013904976}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25736,7 +25737,7 @@ GameObject:
   - component: {fileID: 1017350449}
   - component: {fileID: 1017350448}
   - component: {fileID: 1017350447}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25886,7 +25887,7 @@ GameObject:
   - component: {fileID: 1022990024}
   - component: {fileID: 1022990026}
   - component: {fileID: 1022990025}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25969,7 +25970,7 @@ GameObject:
   - component: {fileID: 1036820464}
   - component: {fileID: 1036820466}
   - component: {fileID: 1036820465}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26097,7 +26098,7 @@ GameObject:
   - component: {fileID: 1041911102}
   - component: {fileID: 1041911104}
   - component: {fileID: 1041911103}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26261,7 +26262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1058193909}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26324,7 +26325,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1065669357}
   - component: {fileID: 1065669358}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26453,7 +26454,7 @@ GameObject:
   - component: {fileID: 1069343387}
   - component: {fileID: 1069343389}
   - component: {fileID: 1069343388}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26536,7 +26537,7 @@ GameObject:
   - component: {fileID: 1072033850}
   - component: {fileID: 1072033852}
   - component: {fileID: 1072033851}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26923,7 +26924,7 @@ GameObject:
   - component: {fileID: 1097580370}
   - component: {fileID: 1097580369}
   - component: {fileID: 1097580368}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27115,7 +27116,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1106180133}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27147,7 +27148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1107385898}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27180,7 +27181,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1109352477}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27211,7 +27212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1112471757}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27244,7 +27245,7 @@ GameObject:
   - component: {fileID: 1130109840}
   - component: {fileID: 1130109842}
   - component: {fileID: 1130109841}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27353,7 +27354,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.7996042, y: 0.019000001}
   m_AnchorMax: {x: 0.9012083, y: 0.106000006}
-  m_AnchoredPosition: {x: 0, y: -1.5}
+  m_AnchoredPosition: {x: 0, y: -1.500061}
   m_SizeDelta: {x: -3.829712, y: -0.08331299}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1135898723
@@ -27473,7 +27474,7 @@ GameObject:
   - component: {fileID: 1136824897}
   - component: {fileID: 1136824899}
   - component: {fileID: 1136824898}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27554,7 +27555,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1144393761}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27670,7 +27671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1153135943}
   - component: {fileID: 1153135944}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27721,7 +27722,7 @@ GameObject:
   - component: {fileID: 1163327508}
   - component: {fileID: 1163327507}
   - component: {fileID: 1163327506}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemySniper3
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -27988,7 +27989,7 @@ GameObject:
   - component: {fileID: 1171676366}
   - component: {fileID: 1171676368}
   - component: {fileID: 1171676367}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28065,7 +28066,7 @@ GameObject:
   - component: {fileID: 1178190481}
   - component: {fileID: 1178190480}
   - component: {fileID: 1178190479}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28162,7 +28163,7 @@ GameObject:
   - component: {fileID: 1184131977}
   - component: {fileID: 1184131979}
   - component: {fileID: 1184131978}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28254,7 +28255,7 @@ GameObject:
   - component: {fileID: 1193815424}
   - component: {fileID: 1193815423}
   - component: {fileID: 1193815422}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (8)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -28521,7 +28522,7 @@ GameObject:
   - component: {fileID: 1198736435}
   - component: {fileID: 1198736437}
   - component: {fileID: 1198736436}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28604,7 +28605,7 @@ GameObject:
   - component: {fileID: 1203440968}
   - component: {fileID: 1203440970}
   - component: {fileID: 1203440969}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28787,7 +28788,7 @@ GameObject:
   - component: {fileID: 1213528353}
   - component: {fileID: 1213528352}
   - component: {fileID: 1213528351}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28884,7 +28885,7 @@ GameObject:
   - component: {fileID: 1218474912}
   - component: {fileID: 1218474914}
   - component: {fileID: 1218474913}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29088,7 +29089,7 @@ GameObject:
   - component: {fileID: 1223006340}
   - component: {fileID: 1223006339}
   - component: {fileID: 1223006338}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29365,7 +29366,7 @@ GameObject:
   - component: {fileID: 1230432379}
   - component: {fileID: 1230432381}
   - component: {fileID: 1230432380}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29532,7 +29533,7 @@ GameObject:
   - component: {fileID: 1237821854}
   - component: {fileID: 1237821853}
   - component: {fileID: 1237821852}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29744,7 +29745,7 @@ GameObject:
   - component: {fileID: 1248451787}
   - component: {fileID: 1248451789}
   - component: {fileID: 1248451788}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29825,7 +29826,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1248699500}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29857,7 +29858,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1258297746}
   - component: {fileID: 1258297747}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29904,7 +29905,7 @@ GameObject:
   - component: {fileID: 1264884292}
   - component: {fileID: 1264884291}
   - component: {fileID: 1264884290}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30001,7 +30002,7 @@ GameObject:
   - component: {fileID: 1268184959}
   - component: {fileID: 1268184961}
   - component: {fileID: 1268184960}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30181,7 +30182,7 @@ GameObject:
   - component: {fileID: 1274682623}
   - component: {fileID: 1274682625}
   - component: {fileID: 1274682624}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30373,7 +30374,7 @@ GameObject:
   - component: {fileID: 1286245016}
   - component: {fileID: 1286245015}
   - component: {fileID: 1286245014}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemySniper2
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -30686,7 +30687,7 @@ GameObject:
   - component: {fileID: 1295791752}
   - component: {fileID: 1295791751}
   - component: {fileID: 1295791750}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30891,7 +30892,7 @@ GameObject:
   - component: {fileID: 1297031839}
   - component: {fileID: 1297031841}
   - component: {fileID: 1297031840}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30974,7 +30975,7 @@ GameObject:
   - component: {fileID: 1301436750}
   - component: {fileID: 1301436752}
   - component: {fileID: 1301436751}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31141,7 +31142,7 @@ GameObject:
   - component: {fileID: 1309794767}
   - component: {fileID: 1309794766}
   - component: {fileID: 1309794765}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31424,7 +31425,7 @@ GameObject:
   - component: {fileID: 1314343896}
   - component: {fileID: 1314343898}
   - component: {fileID: 1314343897}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32208,7 +32209,7 @@ GameObject:
   - component: {fileID: 1358099124}
   - component: {fileID: 1358099123}
   - component: {fileID: 1358099122}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32336,7 +32337,7 @@ GameObject:
   - component: {fileID: 1360971302}
   - component: {fileID: 1360971304}
   - component: {fileID: 1360971303}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32460,7 +32461,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1363887244}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32493,7 +32494,7 @@ GameObject:
   - component: {fileID: 1364068912}
   - component: {fileID: 1364068914}
   - component: {fileID: 1364068913}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32583,7 +32584,7 @@ GameObject:
   - component: {fileID: 1370579511}
   - component: {fileID: 1370579510}
   - component: {fileID: 1370579509}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32702,7 +32703,7 @@ GameObject:
   - component: {fileID: 1382091922}
   - component: {fileID: 1382091924}
   - component: {fileID: 1382091923}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32785,7 +32786,7 @@ GameObject:
   - component: {fileID: 1386018537}
   - component: {fileID: 1386018539}
   - component: {fileID: 1386018538}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32868,7 +32869,7 @@ GameObject:
   - component: {fileID: 1397106692}
   - component: {fileID: 1397106694}
   - component: {fileID: 1397106693}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32952,7 +32953,7 @@ GameObject:
   - component: {fileID: 1401466510}
   - component: {fileID: 1401466509}
   - component: {fileID: 1401466508}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33049,7 +33050,7 @@ GameObject:
   - component: {fileID: 1413446311}
   - component: {fileID: 1413446313}
   - component: {fileID: 1413446312}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33130,7 +33131,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1416013337}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33163,7 +33164,7 @@ GameObject:
   - component: {fileID: 1427595386}
   - component: {fileID: 1427595388}
   - component: {fileID: 1427595387}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33369,7 +33370,7 @@ GameObject:
   - component: {fileID: 1450011684}
   - component: {fileID: 1450011683}
   - component: {fileID: 1450011682}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33586,7 +33587,7 @@ GameObject:
   - component: {fileID: 1456701474}
   - component: {fileID: 1456701473}
   - component: {fileID: 1456701472}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33728,7 +33729,7 @@ GameObject:
   - component: {fileID: 1471624010}
   - component: {fileID: 1471624012}
   - component: {fileID: 1471624011}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33844,7 +33845,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1480509918}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34091,7 +34092,7 @@ GameObject:
   - component: {fileID: 1491398306}
   - component: {fileID: 1491398308}
   - component: {fileID: 1491398307}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34181,7 +34182,7 @@ GameObject:
   - component: {fileID: 1492905074}
   - component: {fileID: 1492905073}
   - component: {fileID: 1492905072}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34412,7 +34413,7 @@ GameObject:
   - component: {fileID: 1501144587}
   - component: {fileID: 1501144589}
   - component: {fileID: 1501144588}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34671,7 +34672,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.069000006, y: 0.24800001}
   m_AnchorMax: {x: 0.9293749, y: 0.75000006}
-  m_AnchoredPosition: {x: 0.50097656, y: -1.4805908}
+  m_AnchoredPosition: {x: 0.50097656, y: -1.4806671}
   m_SizeDelta: {x: -1.6999512, y: -1.7999878}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1515927251
@@ -34953,7 +34954,7 @@ GameObject:
   - component: {fileID: 1550975881}
   - component: {fileID: 1550975880}
   - component: {fileID: 1550975879}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35051,7 +35052,7 @@ GameObject:
   - component: {fileID: 1552278068}
   - component: {fileID: 1552278067}
   - component: {fileID: 1552278066}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35171,7 +35172,7 @@ GameObject:
   - component: {fileID: 1559153996}
   - component: {fileID: 1559153995}
   - component: {fileID: 1559153994}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35267,7 +35268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1559959066}
   - component: {fileID: 1559959067}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35312,7 +35313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576177084}
   - component: {fileID: 1576177085}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35462,7 +35463,7 @@ GameObject:
   - component: {fileID: 1579114059}
   - component: {fileID: 1579114061}
   - component: {fileID: 1579114060}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35546,7 +35547,7 @@ GameObject:
   - component: {fileID: 1582007796}
   - component: {fileID: 1582007795}
   - component: {fileID: 1582007794}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35644,7 +35645,7 @@ GameObject:
   - component: {fileID: 1606325970}
   - component: {fileID: 1606325969}
   - component: {fileID: 1606325968}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35740,7 +35741,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1617896636}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35775,7 +35776,7 @@ GameObject:
   - component: {fileID: 1620956371}
   - component: {fileID: 1620956373}
   - component: {fileID: 1620956372}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35884,7 +35885,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.6195625, y: 0.019000001}
   m_AnchorMax: {x: 0.72, y: 0.106000006}
-  m_AnchoredPosition: {x: 0, y: -1.5}
+  m_AnchoredPosition: {x: 0, y: -1.500061}
   m_SizeDelta: {x: -3.829712, y: -0.08331299}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1621299428
@@ -36002,7 +36003,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1623593952}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36118,7 +36119,7 @@ GameObject:
   - component: {fileID: 1626371328}
   - component: {fileID: 1626371330}
   - component: {fileID: 1626371329}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36206,7 +36207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1633566821}
   - component: {fileID: 1633566822}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36252,7 +36253,7 @@ GameObject:
   - component: {fileID: 1635938422}
   - component: {fileID: 1635938424}
   - component: {fileID: 1635938423}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36339,7 +36340,7 @@ GameObject:
   - component: {fileID: 1637094943}
   - component: {fileID: 1637094945}
   - component: {fileID: 1637094944}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36422,7 +36423,7 @@ GameObject:
   - component: {fileID: 1637204946}
   - component: {fileID: 1637204948}
   - component: {fileID: 1637204947}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36505,7 +36506,7 @@ GameObject:
   - component: {fileID: 1640196064}
   - component: {fileID: 1640196066}
   - component: {fileID: 1640196065}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36588,7 +36589,7 @@ GameObject:
   - component: {fileID: 1653251620}
   - component: {fileID: 1653251622}
   - component: {fileID: 1653251621}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36672,7 +36673,7 @@ GameObject:
   - component: {fileID: 1653995602}
   - component: {fileID: 1653995601}
   - component: {fileID: 1653995600}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36937,7 +36938,7 @@ GameObject:
   - component: {fileID: 1674155793}
   - component: {fileID: 1674155795}
   - component: {fileID: 1674155794}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37445,7 +37446,7 @@ GameObject:
   - component: {fileID: 1697568062}
   - component: {fileID: 1697568064}
   - component: {fileID: 1697568063}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37664,7 +37665,7 @@ GameObject:
   - component: {fileID: 1717375474}
   - component: {fileID: 1717375473}
   - component: {fileID: 1717375472}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37808,7 +37809,7 @@ GameObject:
   - component: {fileID: 1724924818}
   - component: {fileID: 1724924820}
   - component: {fileID: 1724924819}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37898,7 +37899,7 @@ GameObject:
   - component: {fileID: 1731977828}
   - component: {fileID: 1731977827}
   - component: {fileID: 1731977826}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37994,7 +37995,7 @@ GameObject:
   - component: {fileID: 1736897879}
   - component: {fileID: 1736897881}
   - component: {fileID: 1736897880}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38077,7 +38078,7 @@ GameObject:
   - component: {fileID: 1749917995}
   - component: {fileID: 1749917997}
   - component: {fileID: 1749917996}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38299,7 +38300,7 @@ GameObject:
   - component: {fileID: 1759401755}
   - component: {fileID: 1759401754}
   - component: {fileID: 1759401753}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (4)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -38717,7 +38718,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1784172214}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38750,7 +38751,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1785749396}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38783,7 +38784,7 @@ GameObject:
   - component: {fileID: 1790240681}
   - component: {fileID: 1790240683}
   - component: {fileID: 1790240682}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38866,7 +38867,7 @@ GameObject:
   - component: {fileID: 1791869905}
   - component: {fileID: 1791869907}
   - component: {fileID: 1791869906}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39305,7 +39306,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1800018750}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39338,7 +39339,7 @@ GameObject:
   - component: {fileID: 1807812684}
   - component: {fileID: 1807812686}
   - component: {fileID: 1807812685}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39421,7 +39422,7 @@ GameObject:
   - component: {fileID: 1808240246}
   - component: {fileID: 1808240248}
   - component: {fileID: 1808240247}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39502,7 +39503,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1812324949}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39614,7 +39615,7 @@ GameObject:
   - component: {fileID: 1819319797}
   - component: {fileID: 1819319796}
   - component: {fileID: 1819319795}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39711,7 +39712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1819701525}
   - component: {fileID: 1819701526}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39757,7 +39758,7 @@ GameObject:
   - component: {fileID: 1822379541}
   - component: {fileID: 1822379543}
   - component: {fileID: 1822379542}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39838,7 +39839,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1836220392}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39874,7 +39875,7 @@ GameObject:
   - component: {fileID: 1837677019}
   - component: {fileID: 1837677018}
   - component: {fileID: 1837677017}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39971,7 +39972,7 @@ GameObject:
   - component: {fileID: 1838560362}
   - component: {fileID: 1838560364}
   - component: {fileID: 1838560363}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40060,7 +40061,7 @@ GameObject:
   - component: {fileID: 1839659248}
   - component: {fileID: 1839659250}
   - component: {fileID: 1839659249}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40137,7 +40138,7 @@ GameObject:
   - component: {fileID: 1839828558}
   - component: {fileID: 1839828557}
   - component: {fileID: 1839828556}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40616,7 +40617,7 @@ GameObject:
   - component: {fileID: 1874089562}
   - component: {fileID: 1874089564}
   - component: {fileID: 1874089563}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40700,7 +40701,7 @@ GameObject:
   - component: {fileID: 1876246709}
   - component: {fileID: 1876246708}
   - component: {fileID: 1876246707}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40921,7 +40922,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1879319777}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41092,7 +41093,7 @@ GameObject:
   - component: {fileID: 1892177022}
   - component: {fileID: 1892177021}
   - component: {fileID: 1892177020}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41443,7 +41444,7 @@ GameObject:
   - component: {fileID: 1913222097}
   - component: {fileID: 1913222096}
   - component: {fileID: 1913222095}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41561,7 +41562,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1915196592}
   - component: {fileID: 1915196593}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41843,7 +41844,7 @@ GameObject:
   - component: {fileID: 1920911437}
   - component: {fileID: 1920911439}
   - component: {fileID: 1920911438}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42010,7 +42011,7 @@ GameObject:
   - component: {fileID: 1929270453}
   - component: {fileID: 1929270452}
   - component: {fileID: 1929270451}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42106,7 +42107,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1929599686}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42248,7 +42249,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5396249, y: 0.23764323}
   m_AnchorMax: {x: 0.679271, y: 0.35021442}
-  m_AnchoredPosition: {x: 1, y: 1.5}
+  m_AnchoredPosition: {x: 1, y: 1.4999695}
   m_SizeDelta: {x: -3.8078003, y: -4.5184937}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1946026734
@@ -42366,7 +42367,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1946729762}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42400,7 +42401,7 @@ GameObject:
   - component: {fileID: 1949983968}
   - component: {fileID: 1949983967}
   - component: {fileID: 1949983966}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42501,7 +42502,7 @@ GameObject:
   - component: {fileID: 1956639028}
   - component: {fileID: 1956639030}
   - component: {fileID: 1956639029}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42802,7 +42803,7 @@ GameObject:
   - component: {fileID: 1971237103}
   - component: {fileID: 1971237105}
   - component: {fileID: 1971237104}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42944,7 +42945,7 @@ GameObject:
   - component: {fileID: 1975980177}
   - component: {fileID: 1975980179}
   - component: {fileID: 1975980178}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43038,7 +43039,7 @@ GameObject:
   - component: {fileID: 1977978975}
   - component: {fileID: 1977978974}
   - component: {fileID: 1977978973}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyMachineGunner (1)
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -43789,7 +43790,7 @@ GameObject:
   - component: {fileID: 1986812488}
   - component: {fileID: 1986812490}
   - component: {fileID: 1986812489}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44647,7 +44648,7 @@ GameObject:
   - component: {fileID: 2016226572}
   - component: {fileID: 2016226571}
   - component: {fileID: 2016226570}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49709,7 +49710,7 @@ GameObject:
   - component: {fileID: 2030264286}
   - component: {fileID: 2030264285}
   - component: {fileID: 2030264284}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49807,7 +49808,7 @@ GameObject:
   - component: {fileID: 2030604696}
   - component: {fileID: 2030604695}
   - component: {fileID: 2030604694}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlockingWall (4)
   m_TagString: BlockingWall
   m_Icon: {fileID: 0}
@@ -49904,7 +49905,7 @@ GameObject:
   - component: {fileID: 2031182385}
   - component: {fileID: 2031182384}
   - component: {fileID: 2031182383}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50032,7 +50033,7 @@ GameObject:
   - component: {fileID: 2033497671}
   - component: {fileID: 2033497673}
   - component: {fileID: 2033497672}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50108,7 +50109,7 @@ GameObject:
   - component: {fileID: 2033861717}
   - component: {fileID: 2033861719}
   - component: {fileID: 2033861718}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50189,7 +50190,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2037049715}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50532,7 +50533,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2058639951}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50568,7 +50569,7 @@ GameObject:
   - component: {fileID: 2064211352}
   - component: {fileID: 2064211351}
   - component: {fileID: 2064211350}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51224,7 +51225,7 @@ GameObject:
   - component: {fileID: 2075872771}
   - component: {fileID: 2075872773}
   - component: {fileID: 2075872772}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51300,7 +51301,7 @@ GameObject:
   - component: {fileID: 2082206620}
   - component: {fileID: 2082206622}
   - component: {fileID: 2082206621}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51762,7 +51763,7 @@ GameObject:
   - component: {fileID: 2110903892}
   - component: {fileID: 2110903894}
   - component: {fileID: 2110903893}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56702,7 +56703,7 @@ GameObject:
   - component: {fileID: 2124123105}
   - component: {fileID: 2124123107}
   - component: {fileID: 2124123106}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56900,7 +56901,7 @@ GameObject:
   - component: {fileID: 2136354992}
   - component: {fileID: 2136354991}
   - component: {fileID: 2136354990}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57295,7 +57296,7 @@ GameObject:
   - component: {fileID: 326880317298310442}
   - component: {fileID: 356108470175248686}
   - component: {fileID: 348186147164143778}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Magazine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57313,7 +57314,7 @@ GameObject:
   - component: {fileID: 330885515149463180}
   - component: {fileID: 356268812364856492}
   - component: {fileID: 348293271670754858}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57331,7 +57332,7 @@ GameObject:
   - component: {fileID: 326810581657005914}
   - component: {fileID: 355843078781430596}
   - component: {fileID: 347677382969485574}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SubMachineGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57349,7 +57350,7 @@ GameObject:
   - component: {fileID: 326653312989836272}
   - component: {fileID: 356115020763938208}
   - component: {fileID: 347909253726967710}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_SubMachineGun_01_Slide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58370,7 +58371,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1004960384476940657}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59154,7 +59155,7 @@ GameObject:
   - component: {fileID: 3820339524416322643}
   - component: {fileID: 4493757349638955885}
   - component: {fileID: 7840174365800428680}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Bolt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59957,7 +59958,7 @@ GameObject:
   - component: {fileID: 7531293881346661752}
   - component: {fileID: 8310791154092915138}
   - component: {fileID: 4257846559553619529}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Long
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60235,7 +60236,7 @@ GameObject:
   - component: {fileID: 3708698385096825821}
   - component: {fileID: 3708698385096825820}
   - component: {fileID: 3708698385096825811}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60397,7 +60398,7 @@ GameObject:
   - component: {fileID: 3708698385445171238}
   - component: {fileID: 3708698385445171237}
   - component: {fileID: 3708698385445171236}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HandWeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60583,7 +60584,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4081397769768767039}
   - component: {fileID: 4081397769768767038}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ObjectPoolBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66329,6 +66330,1483 @@ Transform:
   m_Father: {fileID: 7397631850228475396}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5070816778990621976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816778990621979}
+  m_Layer: 9
+  m_Name: BombPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5070816778990621979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816778990621976}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.013333362, y: -2.549022, z: -0.28938532}
+  m_LocalScale: {x: 1.5944091, y: 19.607843, z: 3.3333323}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5070816779516963788}
+  m_Father: {fileID: 5070816779883677071}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5070816779430828360
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779430828364}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816779430828361
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779430828364}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 50d80372ae69c534a9b442078acfc9b1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5070816779430828364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779430828367}
+  - component: {fileID: 5070816779430828360}
+  - component: {fileID: 5070816779430828361}
+  - component: {fileID: 5070816779430828366}
+  m_Layer: 9
+  m_Name: Sphere
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!135 &5070816779430828366
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779430828364}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.054616503
+  m_Center: {x: 0.032010898, y: 0.44470403, z: -0.007465615}
+--- !u!4 &5070816779430828367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779430828364}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.00467, y: 0.083, z: 0.00012}
+  m_LocalScale: {x: 0.06578089, y: 0.09300003, z: 0.06499435}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816779516963788}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816779516963788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779516963789}
+  m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5070816780108312546}
+  - {fileID: 5070816779430828367}
+  - {fileID: 5070816779889168269}
+  m_Father: {fileID: 5070816778990621979}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: -90}
+--- !u!1 &5070816779516963789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779516963788}
+  - component: {fileID: 5070816779516963790}
+  - component: {fileID: 5070816779516963791}
+  - component: {fileID: 5070816779516963792}
+  m_Layer: 9
+  m_Name: Bomb
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!54 &5070816779516963790
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779516963789}
+  serializedVersion: 2
+  m_Mass: 3
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 2
+  m_Constraints: 0
+  m_CollisionDetection: 3
+--- !u!114 &5070816779516963791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779516963789}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd899fafa324364b80d411e8af7d5aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _damage: 5
+  _rb: {fileID: 5070816779516963790}
+  _smooth: 2
+  _explosionEffect: {fileID: 2770950827252350930, guid: 5fdfe607d53b296468cc4b17e132cedf, type: 3}
+  _radius: 5
+  _explosionSound: {fileID: 8300000, guid: b77de804e56031f4991d05e2e72e7a7c, type: 3}
+--- !u!82 &5070816779516963792
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779516963789}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &5070816779528410504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779528410507}
+  - component: {fileID: 5070816779528410613}
+  - component: {fileID: 5070816779528410506}
+  m_Layer: 9
+  m_Name: Holder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &5070816779528410506
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779528410504}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 023b90315c7e48a49b04e64d77950aac, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!4 &5070816779528410507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779528410504}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: -0.8160086, z: -0.3240001}
+  m_LocalScale: {x: 0.04892634, y: 2.630763, z: 0.10651867}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816779883677071}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5070816779528410613
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779528410504}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &5070816779555285000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779555285003}
+  - component: {fileID: 5070816779555285108}
+  - component: {fileID: 5070816779555285109}
+  - component: {fileID: 5070816779555285002}
+  m_Layer: 9
+  m_Name: BWingR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &5070816779555285002
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779555285000}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816779555285003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779555285000}
+  m_LocalRotation: {x: 0, y: -0.86602545, z: 0, w: 0.49999994}
+  m_LocalPosition: {x: -0.82, y: 0, z: -0.615}
+  m_LocalScale: {x: 0.2326, y: 1, z: 0.8571325}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816780545643519}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: -120, z: 0}
+--- !u!33 &5070816779555285108
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779555285000}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816779555285109
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779555285000}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8200e3d697800f249ba58b96182cdee8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5070816779792858306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779792858317}
+  - component: {fileID: 5070816779792858318}
+  - component: {fileID: 5070816779792858319}
+  - component: {fileID: 5070816779792858316}
+  m_Layer: 9
+  m_Name: FWingL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &5070816779792858316
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779792858306}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816779792858317
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779792858306}
+  m_LocalRotation: {x: 0, y: 0.5, z: 0, w: 0.8660254}
+  m_LocalPosition: {x: 0.732, y: 0, z: 0.603}
+  m_LocalScale: {x: 0.2326, y: 1, z: 0.8571325}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816780545643519}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 60, z: 0}
+--- !u!33 &5070816779792858318
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779792858306}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816779792858319
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779792858306}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8200e3d697800f249ba58b96182cdee8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &5070816779883677064
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816779883677065
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8200e3d697800f249ba58b96182cdee8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!54 &5070816779883677066
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 84
+  m_CollisionDetection: 0
+--- !u!114 &5070816779883677067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbf60d0ce29fed4292716417b107c64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _rb: {fileID: 5070816779883677066}
+  _moveSpeed: 10
+  _rotationSpeed: 3
+  _detection: {fileID: 5070816780597500941}
+  _attackDistance: 33
+--- !u!1 &5070816779883677068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779883677071}
+  - component: {fileID: 5070816779883677064}
+  - component: {fileID: 5070816779883677065}
+  - component: {fileID: 5070816779883677070}
+  - component: {fileID: 5070816779883677066}
+  - component: {fileID: 5070816779883677175}
+  - component: {fileID: 5070816779883677067}
+  - component: {fileID: 5070816779883677173}
+  - component: {fileID: 5070816779883677174}
+  m_Layer: 9
+  m_Name: Drone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &5070816779883677070
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816779883677071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 5.8425307, y: 45.315, z: 437.1}
+  m_LocalScale: {x: 0.3, y: 0.051, z: 0.6271914}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5070816779528410507}
+  - {fileID: 5070816780545643519}
+  - {fileID: 5070816780788810627}
+  - {fileID: 5070816778990621979}
+  m_Father: {fileID: 562443472}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!114 &5070816779883677173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 457cf45930c16f5428e857d945f37b78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bomb: {fileID: 5070816779516963791}
+  _detection: {fileID: 5070816780597500941}
+--- !u!82 &5070816779883677174
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 71ff5d7f19a5e3243aeaaf52ddc2dc2f, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 5
+  MaxDistance: 15
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &5070816779883677175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779883677068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08ded7382feb85245930fefa8e65d728, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _maxHp: 5
+  _explosionEffect: {fileID: 2770950827252350930, guid: 5fdfe607d53b296468cc4b17e132cedf, type: 3}
+  _explosionSound: {fileID: 8300000, guid: b77de804e56031f4991d05e2e72e7a7c, type: 3}
+--- !u!1 &5070816779889168258
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779889168269}
+  - component: {fileID: 5070816779889168270}
+  - component: {fileID: 5070816779889168271}
+  - component: {fileID: 5070816779889168268}
+  m_Layer: 9
+  m_Name: Stab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!136 &5070816779889168268
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779889168258}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  m_Radius: 0.15684354
+  m_Height: 3.1165693
+  m_Direction: 1
+  m_Center: {x: -0.34315673, y: -2.9108355, z: -0.00000008278419}
+--- !u!4 &5070816779889168269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779889168258}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.004, y: -0.101470076, z: 0}
+  m_LocalScale: {x: 0.09, y: 0.010069148, z: 0.09000004}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816779516963788}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5070816779889168270
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779889168258}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816779889168271
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779889168258}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d9c1df76c93f17541837fa0572e41323, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &5070816779919381256
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779919381262}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816779919381257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779919381262}
+  m_LocalRotation: {x: 0, y: 0.86602545, z: 0, w: 0.49999994}
+  m_LocalPosition: {x: 0.764, y: 0, z: -0.614}
+  m_LocalScale: {x: 0.2326, y: 1, z: 0.8571325}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816780545643519}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 120, z: 0}
+--- !u!33 &5070816779919381258
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779919381262}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816779919381259
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816779919381262}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8200e3d697800f249ba58b96182cdee8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5070816779919381262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816779919381257}
+  - component: {fileID: 5070816779919381258}
+  - component: {fileID: 5070816779919381259}
+  - component: {fileID: 5070816779919381256}
+  m_Layer: 9
+  m_Name: BWingL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5070816780108312546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780108312547}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.004, y: 0, z: 0}
+  m_LocalScale: {x: 0.0729606, y: 0.09482515, z: 0.073443234}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816779516963788}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5070816780108312547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816780108312546}
+  - component: {fileID: 5070816780108312559}
+  - component: {fileID: 5070816780108312556}
+  - component: {fileID: 5070816780108312557}
+  m_Layer: 9
+  m_Name: Body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &5070816780108312556
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780108312547}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d9c1df76c93f17541837fa0572e41323, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &5070816780108312557
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780108312547}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  m_Radius: 0.20519887
+  m_Height: 0.4022028
+  m_Direction: 1
+  m_Center: {x: -0.29675156, y: 0.05317966, z: -0.000000101446794}
+--- !u!33 &5070816780108312559
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780108312547}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &5070816780545643516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816780545643519}
+  m_Layer: 9
+  m_Name: Wings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5070816780545643519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780545643516}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5070816779919381257}
+  - {fileID: 5070816779555285003}
+  - {fileID: 5070816779792858317}
+  - {fileID: 5070816780583508818}
+  m_Father: {fileID: 5070816779883677071}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816780583508818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780583508819}
+  m_LocalRotation: {x: 0, y: -0.5, z: 0, w: 0.8660254}
+  m_LocalPosition: {x: -0.818, y: 0, z: 0.571}
+  m_LocalScale: {x: 0.2326, y: 1, z: 0.8571325}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816780545643519}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: -60, z: 0}
+--- !u!1 &5070816780583508819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816780583508818}
+  - component: {fileID: 5070816780583508831}
+  - component: {fileID: 5070816780583508828}
+  - component: {fileID: 5070816780583508829}
+  m_Layer: 9
+  m_Name: FWingLR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &5070816780583508828
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780583508819}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8200e3d697800f249ba58b96182cdee8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &5070816780583508829
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780583508819}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &5070816780583508831
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780583508819}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &5070816780597500930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780597500931}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.56999755, z: 0}
+  m_LocalScale: {x: 0.7408, y: 2.0370002, z: 0.7643}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5070816780788810627}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5070816780597500931
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816780597500930}
+  - component: {fileID: 5070816780597500943}
+  - component: {fileID: 5070816780597500940}
+  - component: {fileID: 5070816780597500941}
+  - component: {fileID: 5070816780597500944}
+  m_Layer: 9
+  m_Name: CameraEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &5070816780597500940
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780597500931}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 023b90315c7e48a49b04e64d77950aac, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &5070816780597500941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780597500931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18d6c609b7f80ec4db3525d33ca57425, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _detectionRadius: 40
+  _playerDetected: 0
+  _whatIsTarget:
+    serializedVersion: 2
+    m_Bits: 128
+  _target: {fileID: 6585716234852543192}
+  _rb: {fileID: 5070816779883677066}
+--- !u!33 &5070816780597500943
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780597500931}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &5070816780597500944
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780597500931}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 68.02369, y: 430.97632, z: 1.0000002}
+  m_Center: {x: 0.0004884354, y: -214.98822, z: 1.1352578e-18}
+--- !u!1 &5070816780788810624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070816780788810627}
+  - component: {fileID: 5070816780788810636}
+  - component: {fileID: 5070816780788810637}
+  - component: {fileID: 5070816780788810626}
+  m_Layer: 9
+  m_Name: CameraHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &5070816780788810626
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780788810624}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &5070816780788810627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780788810624}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.82352585, z: 0.15306334}
+  m_LocalScale: {x: 0.5095639, y: 1.0188582, z: 0.24373612}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5070816780597500930}
+  m_Father: {fileID: 5070816779883677071}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!33 &5070816780788810636
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780788810624}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5070816780788810637
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5070816780788810624}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 023b90315c7e48a49b04e64d77950aac, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &5305214282350188190
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -67941,7 +69419,7 @@ GameObject:
   - component: {fileID: 4647065983525097890}
   - component: {fileID: 1737775135920763811}
   - component: {fileID: 1730558589310468112}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Scope_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69019,8 +70497,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6585716234710150422}
   m_LocalRotation: {x: -0, y: 0.30137146, z: -0, w: 0.9535069}
-  m_LocalPosition: {x: 0, y: 0, z: -710.74835}
-  m_LocalScale: {x: 0.71874964, y: 0.71875, z: 0.71874964}
+  m_LocalPosition: {x: 0, y: 0, z: -739.12506}
+  m_LocalScale: {x: 0.77018195, y: 0.7701823, z: 0.77018195}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6585716234537794239}
@@ -69035,8 +70513,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 102.46994, y: 303.4125}
-  m_SizeDelta: {x: 1920, y: 902.6087}
+  m_AnchoredPosition: {x: 142.87599, y: 351.5375}
+  m_SizeDelta: {x: 1920, y: 967.30347}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &6585716234710150443
 Canvas:
@@ -69499,7 +70977,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6473482749981527105}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WeaponHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69628,7 +71106,7 @@ GameObject:
   - component: {fileID: 7397631850228475396}
   - component: {fileID: 2139606096106731722}
   - component: {fileID: 8623624099488769463}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Rifle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74580,7 +76058,7 @@ GameObject:
   - component: {fileID: 8087083841723564886}
   - component: {fileID: 8087083841723564884}
   - component: {fileID: 8087083841723564887}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthFilling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74695,7 +76173,7 @@ GameObject:
   - component: {fileID: 8087083841990672825}
   - component: {fileID: 8087083841990672824}
   - component: {fileID: 8087083841990672827}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74934,7 +76412,7 @@ GameObject:
   - component: {fileID: 8087083842002160327}
   - component: {fileID: 8087083842002160324}
   - component: {fileID: 3912327870063574061}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemySniper1
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -74991,7 +76469,7 @@ GameObject:
   - component: {fileID: 8087083842087755823}
   - component: {fileID: 8087083842087755822}
   - component: {fileID: 8087083842087755817}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75055,7 +76533,7 @@ GameObject:
   - component: {fileID: 8087083842347736465}
   - component: {fileID: 8087083842346770257}
   - component: {fileID: 8087083841511721684}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75139,7 +76617,7 @@ GameObject:
   - component: {fileID: 8087083842695588975}
   - component: {fileID: 8087083842695588974}
   - component: {fileID: 8087083842695588969}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75412,7 +76890,7 @@ GameObject:
   - component: {fileID: 617188884143732560}
   - component: {fileID: 5632480108048236158}
   - component: {fileID: 4066128133842949433}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Bayonet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75445,7 +76923,7 @@ GameObject:
   - component: {fileID: 1263910784824215625}
   - component: {fileID: 5305214282350188190}
   - component: {fileID: 1030400436909702417}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SM_Wep_Russian_Rifle_01_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}

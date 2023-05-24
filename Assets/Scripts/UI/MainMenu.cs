@@ -27,7 +27,7 @@ namespace Assets.Scripts
 
         public void PlayGame()
         {
-            SceneManager.LoadScene(PlayerPrefs.GetInt("Levels"));
+            SceneManager.LoadScene(1);
         }
 
         public void ActivateChooseLevelPanel()
