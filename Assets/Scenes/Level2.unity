@@ -7932,7 +7932,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: eaf16571ba52fe543b48d781756e06ef, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7b2a1ffb6c35b814dbda6bf5d73f3bb2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13972,8 +13972,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Our scouts have found the road along which the minister will pass in a
-    small escort. eliminate him! Remember, there may be snipers here, so being out
-    of cover for a long time is dangerous.
+    small escort. eliminate him! There's a minefield around you, the place you can
+    go is limited! You should use a long range weapon
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -17774,7 +17774,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.7996042, y: 0.019000001}
   m_AnchorMax: {x: 0.9012083, y: 0.106000006}
-  m_AnchoredPosition: {x: 0, y: -1.500061}
+  m_AnchoredPosition: {x: 0, y: -1.5001221}
   m_SizeDelta: {x: -3.829712, y: -0.08331299}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1135898723
@@ -27817,7 +27817,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.069000006, y: 0.24800001}
   m_AnchorMax: {x: 0.9293749, y: 0.75000006}
-  m_AnchoredPosition: {x: 0.50097656, y: -1.4806824}
+  m_AnchoredPosition: {x: 0.50097656, y: -1.4807129}
   m_SizeDelta: {x: -1.6999512, y: -1.7999878}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1515927251
@@ -28958,7 +28958,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.6195625, y: 0.019000001}
   m_AnchorMax: {x: 0.72, y: 0.106000006}
-  m_AnchoredPosition: {x: 0, y: -1.500061}
+  m_AnchoredPosition: {x: 0, y: -1.5001221}
   m_SizeDelta: {x: -3.829712, y: -0.08331299}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1621299428
@@ -54149,7 +54149,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.024354165, y: 0.100463994}
   m_AnchorMax: {x: 0.50600004, y: 0.4366784}
-  m_AnchoredPosition: {x: 3, y: 0.49993896}
+  m_AnchoredPosition: {x: 3, y: 0.49996948}
   m_SizeDelta: {x: -8.244873, y: -1.7241821}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2066739905
@@ -69238,8 +69238,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6585716234710150422}
   m_LocalRotation: {x: -0, y: -0.07117842, z: -0, w: 0.9974636}
-  m_LocalPosition: {x: 0, y: 0, z: -440.21228}
-  m_LocalScale: {x: 0.76822877, y: 0.7682291, z: 0.76822877}
+  m_LocalPosition: {x: 0, y: 0, z: -430.98254}
+  m_LocalScale: {x: 0.8359371, y: 0.8359375, z: 0.8359371}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6585716234537794239}
@@ -69254,8 +69254,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 610.1278, y: 330.7}
-  m_SizeDelta: {x: 1920.0001, y: 917.69495}
+  m_AnchoredPosition: {x: 674.4691, y: 358.825}
+  m_SizeDelta: {x: 1920, y: 910.65424}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &6585716234710150443
 Canvas:
@@ -69296,7 +69296,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.049000002, y: 0.78458047}
   m_AnchorMax: {x: 0.15447916, y: 0.84547555}
-  m_AnchoredPosition: {x: -1.6601562, y: 0.5}
+  m_AnchoredPosition: {x: -1.6600342, y: 0.5}
   m_SizeDelta: {x: -1, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6585716234822956123

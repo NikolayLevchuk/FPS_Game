@@ -10,8 +10,7 @@ public class BonfireDamage : MonoBehaviour
     {
         if(other.TryGetComponent<IDamageble>(out IDamageble damageble))
         {
-            damageble.ApplyDamage(_damage);
-            Debug.Log(other.GetComponent<Health>().CurrentHealth);
+            damageble.ApplyDamage(_damage);           
         }
     }
 }
