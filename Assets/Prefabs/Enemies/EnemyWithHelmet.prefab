@@ -439,7 +439,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _prefab: {fileID: 8338101333036213581, guid: 2c182c93059a8624e8248279faf7d625, type: 3}
-  _amount: 5
 --- !u!1 &6279071110198009836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1058,7 +1057,7 @@ Transform:
   - {fileID: 3708698386523035503}
   - {fileID: 4081397770121134722}
   m_Father: {fileID: 0}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8087083842588952188
 MeshFilter:

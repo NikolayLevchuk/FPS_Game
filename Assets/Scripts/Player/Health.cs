@@ -16,7 +16,7 @@ namespace Assets.Scripts
             get => _currentHealth;
             set
             {
-                if(value >= _maxHealth)
+                if(value > _maxHealth)
                 {
                     _currentHealth = _maxHealth;
                 }

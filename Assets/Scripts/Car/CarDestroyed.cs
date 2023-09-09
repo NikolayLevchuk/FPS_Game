@@ -14,6 +14,7 @@ namespace Assets.Scripts
         public void ApplyDamage(int damage)
         {
             _hp -= damage;
+
             if (_hp <= 0)
             {
                 _smokeEffect.SetActive(true);
