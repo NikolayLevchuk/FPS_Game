@@ -334,6 +334,7 @@ MonoBehaviour:
   _damage: 200
   _throwPower: 20
   _radius: 3
+  _grenadesLeft: 1
   _grenadesAmount: 1
   _meshRenderer: {fileID: 237641545473171137}
   _collider: {fileID: 247442873405989403}
@@ -361,7 +362,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 60
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0

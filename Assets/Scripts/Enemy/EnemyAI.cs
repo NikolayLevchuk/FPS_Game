@@ -32,6 +32,9 @@ namespace Assets.Scripts
         [SerializeField] private float _sightRange, _attackRange;
         [SerializeField] private bool _playerInSightRange, _playerInAttackRange;
 
+        [Header("Animator")]
+        [SerializeField] private Animator _animator;
+
         private void Awake()
         {
             _player = GameObject.Find("Player").transform;
@@ -50,6 +53,9 @@ namespace Assets.Scripts
 
         private void Patroling()
         {
+            _animator.SetBool("CanAttack", false);
+            _animator.SetBool("NeedToMove", true);  
+            
             if (!_walkPointSet) SearchWalkPoint();
 
             if (_walkPointSet)
@@ -79,11 +85,15 @@ namespace Assets.Scripts
 
         private void ChasePlayer()
         {
+            _animator.SetBool("CanAttack", false);
+            _animator.SetBool("NeedToMove", true);
             _agent.SetDestination(_player.position);
         }
 
         private void AttackPlayer()
         {
+            _animator.SetBool("CanAttack", true);
+
             _agent.SetDestination(transform.position);
 
             transform.LookAt(_player);
