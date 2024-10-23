@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
+using System.Linq;
 
 namespace Assets.Scripts
 {
@@ -20,21 +21,24 @@ namespace Assets.Scripts
 
         private int _currentWeapon = 0;
         private IWeaponable[] _weapons;
-        
+
         void Start()
         {
             _weapons = new IWeaponable[_hand.childCount];
-            for (int i = 0; i < _hand.childCount; i++)
+            if (_weapons.Count() > 0)
             {
-                _weapons[i] = _hand.GetChild(i).GetComponent<IWeaponable>();
+                for (int i = 0; i < _hand.childCount; i++)
+                {
+                    _weapons[i] = _hand.GetChild(i).GetComponent<IWeaponable>();
+                }
+                _weapons[0].gameObject.SetActive(true);
             }
-            _weapons[0].gameObject.SetActive(true);
         }
 
         void Update()
         {
             CheckSwitch();
-            ShowAmmo();
+            //ShowAmmo();
         }
 
         private void CheckSwitch()

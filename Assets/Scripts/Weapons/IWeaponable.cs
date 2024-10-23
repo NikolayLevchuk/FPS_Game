@@ -9,6 +9,5 @@ namespace Assets.Scripts
         public int CurrentRounds { get; }
         public int RoundsAmount { get; }
         public int AllRounrs { get; }
-
     }
 }

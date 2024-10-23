@@ -19,7 +19,6 @@ namespace Assets.Scripts
         bool _walkPointSet;
         [SerializeField] private float _walkPointRange;
 
-
         [Header("Attacking")]
         [SerializeField] private float _timeBetweenAttacks;
         bool _alreadyAttacked;
@@ -80,7 +79,6 @@ namespace Assets.Scripts
 
             if (Physics.Raycast(_walkPoint, -transform.up, 2f, _whatIsGround))
                 _walkPointSet = true;
-
         }
 
         private void ChasePlayer()
