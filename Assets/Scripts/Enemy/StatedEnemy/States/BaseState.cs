@@ -17,7 +17,7 @@ public class BaseState : IState
     protected Transform Transform => _enemyContext.Transform; 
     protected NavMeshAgent Agent => _enemyContext.Agent;
     protected PlayerDetector PlayerDetector => _enemyContext.PlayerDetector;
-    protected GroundDetector GroundDetector => _enemyContext.GroundDetector;
+    protected bool Grounded => _enemyContext.Grounded; 
     protected EnemyView View => _enemyContext.View;
 
     public virtual void Enter()

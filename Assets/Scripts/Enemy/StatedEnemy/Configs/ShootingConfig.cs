@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 [Serializable]
-public class ShootingConfig : MonoBehaviour
+public class ShootingConfig
 {
     [SerializeField, Range(5, 10)] private float _speed;
     public float Speed => _speed;
