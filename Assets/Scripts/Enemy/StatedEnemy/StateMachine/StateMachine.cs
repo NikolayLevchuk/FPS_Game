@@ -14,7 +14,7 @@ public class StateMachine : IStateSwitcher
         {
             new PatrollingState(this, data, enemyContext),
             new ChasingState(this, data, enemyContext),
-            new ShotingState(this, data, enemyContext)
+            new ShootingState(this, data, enemyContext)
         };
 
         _currentState = _states[0];

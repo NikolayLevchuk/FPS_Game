@@ -18,4 +18,5 @@ MonoBehaviour:
   _chasingConfig:
     _speed: 6
   _shootingConfig:
-    _speed: 5
+    _speed: 0
+    _shootingSound: {fileID: 8300000, guid: 16c5aa4be84b6c04ba906212549e16a8, type: 3}

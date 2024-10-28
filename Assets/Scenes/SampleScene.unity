@@ -2597,7 +2597,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3434077538867438008, guid: f29fdfb9e03d1294494880f7c67a4d19, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -29151,7 +29151,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -29245,6 +29245,9 @@ MonoBehaviour:
   _agent: {fileID: 8630029781737300992}
   _playerDetector: {fileID: 8630029781737301009}
   _groundDetector: {fileID: 1755033077}
+  _audioSource: {fileID: 3581611628528308975}
+  _shotSound: {fileID: 8300000, guid: 16c5aa4be84b6c04ba906212549e16a8, type: 3}
+  _muzzle: {fileID: 724313806531979187}
 --- !u!114 &8630029781737301009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29259,6 +29262,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sightRange: 15
   _shootingRange: 10
+  _whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!1 &8630029781885800169
 GameObject:
   m_ObjectHideFlags: 0

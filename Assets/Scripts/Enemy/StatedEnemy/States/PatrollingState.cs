@@ -4,7 +4,7 @@ public class PatrollingState : BaseState
 {
     private PatrollingConfig _config;
 
-    private Vector3 _walkPoint; 
+    private Vector3 _walkPoint;
     private bool _isWalkPointSet;
 
     public PatrollingState(IStateSwitcher switcher, StateMachineData data, EnemyContext enemyContext) : base(switcher, data, enemyContext)
@@ -12,11 +12,14 @@ public class PatrollingState : BaseState
         _config = enemyContext.Config.PatrollingConfig;
     }
 
+    private float _speed => _config.Speed;
     private float _walkPointRange => _config.WalkPointRange;
 
     public override void Enter()
     {
         base.Enter();
+        Data.Speed = _speed;
+        Agent.speed = Data.Speed;
         View.SetPatrollingAnimation();
     }
 
@@ -37,7 +40,6 @@ public class PatrollingState : BaseState
     {
         base.Update();
         Patrolling();
-        Debug.Log("Patrolling");
     }
 
     private void Patrolling()
@@ -47,10 +49,10 @@ public class PatrollingState : BaseState
         if (_isWalkPointSet == false)
             SearchForWalkingPoint();
 
-        if(_isWalkPointSet == true)
+        if (_isWalkPointSet == true)
             Agent.SetDestination(_walkPoint);
 
-        if(DefineDistanceToWalkPoint(_walkPoint))
+        if (DefineDistanceToWalkPoint(_walkPoint))
             _isWalkPointSet = false;
     }
 
@@ -70,5 +72,5 @@ public class PatrollingState : BaseState
 
         if (Grounded)
             _isWalkPointSet = true;
-    } 
+    }
 }
