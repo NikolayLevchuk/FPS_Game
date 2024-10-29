@@ -2597,7 +2597,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3434077538867438008, guid: f29fdfb9e03d1294494880f7c67a4d19, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -14731,7 +14731,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.052, y: 0.87200004}
   m_AnchorMax: {x: 0.24000001, y: 0.94479024}
-  m_AnchoredPosition: {x: -5.06604, y: -0.46032715}
+  m_AnchoredPosition: {x: -5.065918, y: -0.46032715}
   m_SizeDelta: {x: -0.1321106, y: -9.079102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1721398390
@@ -16082,7 +16082,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.049000002, y: 0.78458047}
   m_AnchorMax: {x: 0.15447916, y: 0.84547555}
-  m_AnchoredPosition: {x: -1.65979, y: 0.5}
+  m_AnchoredPosition: {x: -1.659668, y: 0.5}
   m_SizeDelta: {x: -1, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1852297300
@@ -16647,7 +16647,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e154d8d7a3f7fa4b994b71a20c7cf7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 9999999
+  _maxHealth: 100
   _healthBar: {fileID: 1721398392}
 --- !u!1 &1885850609
 GameObject:

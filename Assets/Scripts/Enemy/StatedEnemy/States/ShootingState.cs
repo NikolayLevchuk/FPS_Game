@@ -39,11 +39,8 @@ public class ShootingState : BaseState
     {
         base.HandleConditions();
 
-        if (!PlayerDetector.PlayerInShootingRange && PlayerDetector.PlayerInSightRange)
+        if (!PlayerDetector.PlayerInShootingRange)
             StateSwitcher.SwitchState<ChasingState>();
-
-        if(!PlayerDetector.PlayerInSightRange && !PlayerDetector.PlayerInShootingRange)
-            StateSwitcher.SwitchState<PatrollingState>();
     }
 
     public override void Update()
@@ -53,7 +50,9 @@ public class ShootingState : BaseState
     }
 
     private async void AttackPlayer()
-    { 
+    {
+        Transform.LookAt(PlayerDetector.Player.transform);
+
         if (!_alreadyAttacked) 
         {
             _audioSource.PlayOneShot(_shootingSound);
