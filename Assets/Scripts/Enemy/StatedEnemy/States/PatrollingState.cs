@@ -44,8 +44,6 @@ public class PatrollingState : BaseState
 
     private void Patrolling()
     {
-        Debug.Log("Patrolling method is executing");
-
         if (_isWalkPointSet == false)
             SearchForWalkingPoint();
 

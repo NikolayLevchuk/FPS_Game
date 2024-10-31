@@ -30,6 +30,7 @@ namespace Assets.Scripts
             {
                 bullet = Instantiate(_prefab);
             }
+            bullet.EnableBullet();
             bullet.Destroyed += ReturnBullet;
             return bullet;
         }

@@ -8,6 +8,8 @@ namespace Assets.Scripts
         [SerializeField] private Rigidbody _rb;
         [SerializeField] private float _speed;
         [SerializeField] private int _damage;
+        [SerializeField] private MeshRenderer _meshRenderer;
+        [SerializeField] private Collider _collider;
 
         public event Action<EnemysProjectile> Destroyed;
 
@@ -18,9 +20,28 @@ namespace Assets.Scripts
 
         private void OnTriggerEnter(Collider other)
         {
-            IDamageble damagable = other.GetComponent<IDamageble>();
-            damagable?.ApplyDamage(_damage);
+            if (other.TryGetComponent(out IDamageble damageble))
+            {
+                damageble.ApplyDamage(_damage);
+            }
+
             Destroyed?.Invoke(this);
+
+            DisableBullet();
+        } 
+
+        public void EnableBullet()
+        {
+            _meshRenderer.enabled = true;
+            _collider.enabled = true;
+        }
+
+        public void DisableBullet()
+        {
+            _meshRenderer.enabled = false;
+            _collider.enabled = false;
+
+            Debug.Log("Bullet disabled");
         }
     }
 }

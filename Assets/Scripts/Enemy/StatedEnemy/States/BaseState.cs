@@ -22,12 +22,12 @@ public class BaseState : IState
 
     public virtual void Enter()
     {
-        Debug.Log($"Entered in {GetType()}");
+        //Debug.Log($"Entered in {GetType()}");
     }
 
     public virtual void Exit()
     {
-        Debug.Log($"Left from {GetType()}");
+        //Debug.Log($"Left from {GetType()}");
     }
 
     public virtual void HandleConditions()

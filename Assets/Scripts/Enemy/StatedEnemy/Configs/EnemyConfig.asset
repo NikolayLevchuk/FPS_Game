@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: EnemyConfig
   m_EditorClassIdentifier: 
   _patrollingConfig:
-    _speed: 5
+    _speed: 4
     _walkPointRange: 5
   _chasingConfig:
     _speed: 6
