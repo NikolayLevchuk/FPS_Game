@@ -12,12 +12,12 @@ public class BaseState : IState
         StateSwitcher = switcher;
         Data = data;
         _enemyContext = enemyContext;
-    } 
+    }
 
     protected Transform Transform => _enemyContext.Transform; 
     protected NavMeshAgent Agent => _enemyContext.Agent;
     protected PlayerDetector PlayerDetector => _enemyContext.PlayerDetector;
-    protected bool Grounded => _enemyContext.Grounded; 
+    protected bool Grounded => _enemyContext.Grounded;
     protected EnemyView View => _enemyContext.View;
 
     public virtual void Enter()

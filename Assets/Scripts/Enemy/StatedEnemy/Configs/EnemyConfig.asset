@@ -16,9 +16,9 @@ MonoBehaviour:
     _speed: 5
     _walkPointRange: 5
   _chasingConfig:
-    _speed: 7
+    _speed: 6
   _shootingConfig:
     _speed: 0
     _shootingSound: {fileID: 8300000, guid: 16c5aa4be84b6c04ba906212549e16a8, type: 3}
-    _timeBetweenShoots: 0.5
+    _timeBetweenShoots: 1
     _shootingEffect: {fileID: 6183331470405231126, guid: 47fcbaca1c920af41b108389ede2b836, type: 3}
