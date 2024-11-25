@@ -1,9 +1,10 @@
 using UnityEngine;
-using TMPro;
+using System;
+using Assets.Scripts.Weapons;
 
 namespace Assets.Scripts
 {
-    public class GunSystem : MonoBehaviour, IWeaponable
+    public class GunSystem : MonoBehaviour, IReloadable
     {
         [Header("Gun stats")]
         [SerializeField] private int _damage;
@@ -21,7 +22,6 @@ namespace Assets.Scripts
 
         private bool _shooting, _readyToShot, _reloading;
 
-
         [SerializeField] private Transform _attackPoint; 
         [SerializeField] private RaycastHit _rayHit;
         private Camera _camera;
@@ -29,9 +29,12 @@ namespace Assets.Scripts
         [Header("Animation")]
         private Animator _animator;
 
+        public event Action Shot;
+        public event Action Reloaded;
+
         public int CurrentRounds => _bulletsLeft;
         public int RoundsAmount => _magazineSize;
-        public int AllRounrs => (_magazineCount * _magazineSize);
+        public int AllRounds => (_magazineCount * _magazineSize);
 
         public Animator Animator
         {
@@ -87,7 +90,7 @@ namespace Assets.Scripts
         {
             _readyToShot = false;
             _animator.Play("Shot");
-            _audioSource.PlayOneShot(_shotClips[Random.Range(0, _shotClips.Length - 1)]);
+            _audioSource.PlayOneShot(_shotClips[UnityEngine.Random.Range(0, _shotClips.Length - 1)]);
             GameObject shotEffect = Instantiate(_shotEffect, _attackPoint.position, _attackPoint.rotation);
             if (Physics.Raycast(_camera.transform.position, _camera.transform.forward, out _rayHit, _range))
             {
@@ -96,6 +99,7 @@ namespace Assets.Scripts
             }
 
             _bulletsLeft--;
+            Shot?.Invoke();
             Invoke(nameof(ResetShot), _timeBetweenShooting);
         }
 
@@ -109,6 +113,7 @@ namespace Assets.Scripts
             _animator.Play("Reload");
             _reloading = true;
             _magazineCount--;
+            Reloaded?.Invoke();
             _audioSource.PlayOneShot(_reloadingSound);
             Invoke(nameof(RealoadingFinished), _reloadTime);
         }

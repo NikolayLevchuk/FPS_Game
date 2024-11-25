@@ -8,6 +8,7 @@ namespace Assets.Scripts
         public GameObject gameObject => gameObject;
         public int CurrentRounds { get; }
         public int RoundsAmount { get; }
-        public int AllRounrs { get; }
+        public int AllRounds { get; }
+        public event Action Shot;
     }
 }

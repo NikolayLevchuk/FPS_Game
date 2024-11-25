@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using TMPro;
 using System.Linq;
+using Assets.Scripts.Weapons;
 
 namespace Assets.Scripts
 {
@@ -33,12 +34,23 @@ namespace Assets.Scripts
                 }
                 _weapons[0].gameObject.SetActive(true);
             }
+            UpdateAmmo();
+            OnWeaponSubscriptions();
+        }
+
+        private void OnWeaponSubscriptions()
+        {
+            foreach (IWeaponable weapon in _weapons)
+            {
+                weapon.Shot += UpdateAmmo;
+                if(weapon is IReloadable reloadable)
+                    reloadable.Reloaded += UpdateAmmo;  
+            }     
         }
 
         void Update()
         {
             CheckSwitch();
-            //ShowAmmo();
         }
 
         private void CheckSwitch()
@@ -55,7 +67,6 @@ namespace Assets.Scripts
                 }
 
                 _currentWeapon = Mathf.Clamp(_currentWeapon, 0, _weapons.Length - 1);
-
                 _animator.Play("Switch");
                 StartCoroutine(nameof(SwitchTimer));
             }
@@ -82,10 +93,10 @@ namespace Assets.Scripts
             SwitchWeapon();
         }
 
-        private void ShowAmmo()
+        private void UpdateAmmo()
         {
             _currentBullets.text = _weapons[_currentWeapon].CurrentRounds + " / " + _weapons[_currentWeapon].RoundsAmount;
-            _BulletsAll.text = _weapons[_currentWeapon].AllRounrs.ToString();
+            _BulletsAll.text = _weapons[_currentWeapon].AllRounds.ToString();
         }
 
         private void SwitchWeapon()
@@ -97,6 +108,7 @@ namespace Assets.Scripts
                     _weapons[i].gameObject.SetActive(false);
                 }
                 _weapons[_currentWeapon].gameObject.SetActive(true);
+                UpdateAmmo();
             }
         }
     }

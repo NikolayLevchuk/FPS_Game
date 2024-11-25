@@ -1,8 +1,10 @@
+using Assets.Scripts.Weapons;
+using System;
 using UnityEngine;
 
 namespace Assets.Scripts
 {
-    public class RocketLauncher : MonoBehaviour, IWeaponable
+    public class RocketLauncher : MonoBehaviour, INonReloadable
     {
         [SerializeField] private int _rocketsLeft = 1;
         [SerializeField] private int _rocketAmount = 1;
@@ -15,9 +17,11 @@ namespace Assets.Scripts
         [Header("Animation")]
         [SerializeField] private Animator _animator;
 
+        public event Action Shot;
+
         public int CurrentRounds => _rocketsLeft;
         public int RoundsAmount => _rocketAmount;
-        public int AllRounrs => _rocketsLeft;
+        public int AllRounds => _rocketsLeft;
 
         private void Awake()
         {
@@ -26,19 +30,26 @@ namespace Assets.Scripts
 
         private void Update()
         {
-            Shoot();
+            CheckInput();
+        }
+
+        private void CheckInput()
+        {
+            if (Input.GetKeyDown(KeyCode.Mouse0) && _rocketsLeft > 0)
+            {
+                Shoot();
+            }
         }
 
         private void Shoot()
         {
-            if (Input.GetKeyDown(KeyCode.Mouse0) && _rocketsLeft > 0)
-            {
-                _animator.Play("Shot");
-                _rocketsLeft--;
-                _audioSource.PlayOneShot(_shotSound);
-                RocketForLauncher rocket = Instantiate(_rocket, _shotPoint.position, _shotPoint.rotation);
-                GameObject shotEffect = Instantiate(_shotEffect, _shotPoint.position, _shotPoint.rotation);
-            }
+            _animator.Play("Shot");
+            _rocketsLeft--;
+            Shot?.Invoke();
+            _audioSource.PlayOneShot(_shotSound);
+            RocketForLauncher rocket = Instantiate(_rocket, _shotPoint.position, _shotPoint.rotation);
+            GameObject shotEffect = Instantiate(_shotEffect, _shotPoint.position, _shotPoint.rotation);
+
         }
     }
 }

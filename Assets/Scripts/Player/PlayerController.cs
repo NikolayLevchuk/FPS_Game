@@ -33,7 +33,6 @@ namespace Assets.Scripts
 
         void Start()
         {
-
             _characterController = GetComponent<CharacterController>();
         }
 

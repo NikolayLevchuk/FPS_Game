@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -18,9 +17,10 @@ namespace Assets.Scripts
 
         private void OnTriggerEnter(Collider other)
         {
-            if(other.TryGetComponent<IDamageble>(out IDamageble damageble))
+            if(other.TryGetComponent(out IDamageble damageble))
             {
                 Explosion();
+                damageble.ApplyDamage(_damage);
             }    
         }
 

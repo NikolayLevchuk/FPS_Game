@@ -60426,9 +60426,9 @@ MonoBehaviour:
   _priceForAmmo: {fileID: 319228886519332848}
   _icon: {fileID: 319228887804747056}
   _template: {fileID: 11400000, guid: 5ff47d9f3e5a97c488a92a6c6069990c, type: 2}
-  _weapon: {fileID: 0}
+  _weapon: {fileID: 3131329545359345863}
   _shopPlate: {fileID: 319228886648292958}
-  _handPosition: {fileID: 0}
+  _handPosition: {fileID: 6585716234664835537}
 --- !u!224 &319228887110342145
 RectTransform:
   m_ObjectHideFlags: 0
@@ -65245,9 +65245,9 @@ MonoBehaviour:
   _priceForAmmo: {fileID: 319228888018369016}
   _icon: {fileID: 6620272134079706521}
   _template: {fileID: 11400000, guid: 0972d7dc53683e341995da864d6f4bf1, type: 2}
-  _weapon: {fileID: 0}
+  _weapon: {fileID: 1738086873217238425}
   _shopPlate: {fileID: 319228886648292958}
-  _handPosition: {fileID: 0}
+  _handPosition: {fileID: 6585716234664835537}
 --- !u!114 &1537929118462196272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80354,9 +80354,9 @@ MonoBehaviour:
   _priceForAmmo: {fileID: 319228887623028844}
   _icon: {fileID: 8335927982982396535}
   _template: {fileID: 11400000, guid: 625b99bb1d26a8e4ca9877bb965f9234, type: 2}
-  _weapon: {fileID: 0}
+  _weapon: {fileID: 5872565828603557931}
   _shopPlate: {fileID: 319228886648292958}
-  _handPosition: {fileID: 0}
+  _handPosition: {fileID: 6585716234664835537}
 --- !u!1 &6926771694747732777
 GameObject:
   m_ObjectHideFlags: 0
@@ -82675,9 +82675,9 @@ MonoBehaviour:
   _priceForAmmo: {fileID: 319228886690326421}
   _icon: {fileID: 4177977367299705840}
   _template: {fileID: 11400000, guid: 4731baaaa4ef7524bbb7fb4e4ef95f57, type: 2}
-  _weapon: {fileID: 0}
+  _weapon: {fileID: 4096642995156281622}
   _shopPlate: {fileID: 319228886648292958}
-  _handPosition: {fileID: 0}
+  _handPosition: {fileID: 6585716234664835537}
 --- !u!1 &8590705698217081686
 GameObject:
   m_ObjectHideFlags: 0
@@ -82737,9 +82737,9 @@ MonoBehaviour:
   _priceForAmmo: {fileID: 319228886062010033}
   _icon: {fileID: 3946177768682441455}
   _template: {fileID: 11400000, guid: 20baaa3084acc2249913243c111b7b0d, type: 2}
-  _weapon: {fileID: 0}
+  _weapon: {fileID: 4124093736982872116}
   _shopPlate: {fileID: 319228886648292958}
-  _handPosition: {fileID: 0}
+  _handPosition: {fileID: 6585716234664835537}
 --- !u!224 &8660046151751616218
 RectTransform:
   m_ObjectHideFlags: 0

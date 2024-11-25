@@ -1,8 +1,10 @@
+using Assets.Scripts.Weapons;
+using System;
 using UnityEngine;
 
 namespace Assets.Scripts
 {
-    public class Grenade : MonoBehaviour, IWeaponable
+    public class Grenade : MonoBehaviour, INonReloadable
     {
         [SerializeField] private Rigidbody _rb;
         [SerializeField] private GameObject _explosionEffect;
@@ -17,9 +19,11 @@ namespace Assets.Scripts
         [SerializeField] private AudioSource _audioSource;
         [SerializeField] private AudioClip _explosionSound;
 
+        public event Action Shot;
+
         public int CurrentRounds => _grenadesLeft;
         public int RoundsAmount => _grenadesAmount;
-        public int AllRounrs => _grenadesLeft;
+        public int AllRounds => _grenadesLeft;
 
         void Update()
         {
@@ -39,6 +43,7 @@ namespace Assets.Scripts
             transform.SetParent(null);
             _rb.isKinematic = false;
             _grenadesLeft--;
+            Shot?.Invoke();
             _rb.AddForce(transform.forward * _throwPower, ForceMode.Impulse);
             Invoke(nameof(GrenadeExplosion), 2f);
         }
