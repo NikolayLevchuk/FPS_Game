@@ -4,9 +4,11 @@ public class ChasingState : BaseState
 {
     private ChasingConfig _config;
 
+    private DecisionTimeLogger _decisionTimeLogger;
     public ChasingState(IStateSwitcher switcher, StateMachineData data, EnemyContext enemyContext) : base(switcher, data, enemyContext)
     {
         _config = enemyContext.Config.ChasingConfig;
+        _decisionTimeLogger = enemyContext.GetComponent<DecisionTimeLogger>();
     }
 
     private float _speed => _config.Speed;
@@ -40,6 +42,8 @@ public class ChasingState : BaseState
     {
         base.Update();
         ChasePlayer();
+        _decisionTimeLogger.LogDecisionTime("Chasing", ChasePlayer);
+
     }
 
     private void ChasePlayer()

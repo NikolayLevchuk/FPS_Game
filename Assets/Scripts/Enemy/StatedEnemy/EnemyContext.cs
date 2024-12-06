@@ -3,6 +3,8 @@ using UnityEngine.AI;
 
 public class EnemyContext : MonoBehaviour
 {
+    [SerializeField] private DecisionTimeLogger _decisionTimeLogger; 
+
     [SerializeField] private EnemyConfig _config;
     [SerializeField] private EnemyView _view;
     [SerializeField] private NavMeshAgent _agent;

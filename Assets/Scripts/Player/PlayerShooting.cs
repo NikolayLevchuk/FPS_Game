@@ -43,9 +43,9 @@ namespace Assets.Scripts
             foreach (IWeaponable weapon in _weapons)
             {
                 weapon.Shot += UpdateAmmo;
-                if(weapon is IReloadable reloadable)
-                    reloadable.Reloaded += UpdateAmmo;  
-            }     
+                if (weapon is IReloadable reloadable)
+                    reloadable.Reloaded += UpdateAmmo;
+            }
         }
 
         void Update()
@@ -95,8 +95,11 @@ namespace Assets.Scripts
 
         private void UpdateAmmo()
         {
-            _currentBullets.text = _weapons[_currentWeapon].CurrentRounds + " / " + _weapons[_currentWeapon].RoundsAmount;
-            _BulletsAll.text = _weapons[_currentWeapon].AllRounds.ToString();
+            if (_weapons.Length > 0)
+            {
+                _currentBullets.text = _weapons[_currentWeapon].CurrentRounds + " / " + _weapons[_currentWeapon].RoundsAmount;
+                _BulletsAll.text = _weapons[_currentWeapon].AllRounds.ToString();
+            }
         }
 
         private void SwitchWeapon()

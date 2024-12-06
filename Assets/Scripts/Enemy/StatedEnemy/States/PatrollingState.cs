@@ -7,9 +7,12 @@ public class PatrollingState : BaseState
     private Vector3 _walkPoint;
     private bool _isWalkPointSet;
 
+    DecisionTimeLogger _decisionTimeLogger;
+
     public PatrollingState(IStateSwitcher switcher, StateMachineData data, EnemyContext enemyContext) : base(switcher, data, enemyContext)
     {
         _config = enemyContext.Config.PatrollingConfig;
+        _decisionTimeLogger = enemyContext.GetComponent<DecisionTimeLogger>();
     }
 
     private float _speed => _config.Speed;
@@ -40,6 +43,7 @@ public class PatrollingState : BaseState
     {
         base.Update();
         Patrolling();
+        _decisionTimeLogger.LogDecisionTime("Patrolling", Patrolling);
     }
 
     private void Patrolling()

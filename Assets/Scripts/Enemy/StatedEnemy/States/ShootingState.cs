@@ -9,11 +9,15 @@ public class ShootingState : BaseState
     private AudioSource _audioSource;
     private bool _alreadyAttacked;
 
+    DecisionTimeLogger _decisionTimeLogger;
+
+
     public ShootingState(IStateSwitcher switcher, StateMachineData data, EnemyContext enemyContext) : base(switcher, data, enemyContext)
     {
         _config = enemyContext.Config.ShootingConfig;
         _audioSource = enemyContext.AudioSource;
         _muzzle = enemyContext.Muzzle;
+        _decisionTimeLogger = enemyContext.GetComponent<DecisionTimeLogger>();
     }
 
     private float _speed => _config.Speed;
@@ -47,6 +51,7 @@ public class ShootingState : BaseState
     {
         base.Update();
         AttackPlayer();
+        _decisionTimeLogger.LogDecisionTime("Attacking", AttackPlayer);
     }
 
     private async void AttackPlayer()
