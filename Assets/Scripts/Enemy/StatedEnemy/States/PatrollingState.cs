@@ -43,7 +43,7 @@ public class PatrollingState : BaseState
     {
         base.Update();
         Patrolling();
-        _decisionTimeLogger.LogDecisionTime("Patrolling", Patrolling);
+        //_decisionTimeLogger.LogDecisionTime("Patrolling", Patrolling);
     }
 
     private void Patrolling()

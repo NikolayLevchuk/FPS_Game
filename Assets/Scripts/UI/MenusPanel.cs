@@ -30,18 +30,15 @@ namespace Assets.Scripts
             _levelControl.LevelFailed += ShowLosePanel;
         }
 
-        private void OnDisable()
-        {
-            
-        }
-
         public void ShowWinPanel()
         {
+            _levelControl.LevelFailed -= ShowLosePanel;
             Invoke(nameof(ActivateWinPanel), 2f);
         }
 
         public void ShowLosePanel()
         {
+            _levelControl.LevelDone -= ShowWinPanel;
             Invoke(nameof(ActivateLoosePanel), 2f);
         }
 
